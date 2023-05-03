@@ -1,5 +1,9 @@
 def first_func(str) :
-    return str+"a"
+    return str+"_first"
 
-print(first_func("s"))
+def second_func(str) :
+    return str + "second_func"
+
+print(first_func("first function called"))
+print(second_func("calling second function_"))
 
