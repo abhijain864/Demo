@@ -48,3 +48,6 @@ Thumbs.db
 *.mov
 *.wmv
 
+#environment variables for python
+demo_env/
+
